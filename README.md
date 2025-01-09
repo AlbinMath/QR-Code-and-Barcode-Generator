@@ -34,8 +34,8 @@ pip install python-barcode Pillow
 ## Usage
 1. Clone the repository:
 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/AlbinMath/QR-Code-and-Barcode-Generator.git
+cd QR-Code-and-Barcode-Generator
 
 2. Run the script:
 
@@ -62,4 +62,4 @@ Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
 Author
-Your Name - GitHub Profile
+Your Name : Albin Mathew - [GitHub Profile](https://github.com/AlbinMath/)
