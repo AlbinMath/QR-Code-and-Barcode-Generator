@@ -24,10 +24,12 @@ Ensure you have the following installed:
 - `pip` (Python package manager)
 
 ### Install Required Libraries
+
 Run the following commands to install the necessary Python libraries:
 
 
 pip install qrcode[pil]
+
 pip install python-barcode Pillow
 
 
