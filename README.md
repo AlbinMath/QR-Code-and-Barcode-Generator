@@ -26,10 +26,9 @@ Ensure you have the following installed:
 ### Install Required Libraries
 Run the following commands to install the necessary Python libraries:
 
-```bash
+
 pip install qrcode[pil]
 pip install python-barcode Pillow
-exit  # Ends the terminal session
 
 
 ## Usage
