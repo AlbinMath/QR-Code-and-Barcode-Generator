@@ -36,7 +36,7 @@ pip install python-barcode Pillow
 ## Usage
 1. Clone the repository:
 
-'''bash
+bash'''
 git clone https://github.com/AlbinMath/QR-Code-and-Barcode-Generator.git
 
 cd QR-Code-and-Barcode-Generator
