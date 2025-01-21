@@ -31,7 +31,7 @@ Run the following commands to install the necessary Python libraries:
 pip install qrcode[pil]
 
 pip install python-barcode Pillow
-'''
+
 
 ## Usage
 1. Clone the repository:
@@ -40,7 +40,7 @@ pip install python-barcode Pillow
 git clone https://github.com/AlbinMath/QR-Code-and-Barcode-Generator.git
 
 cd QR-Code-and-Barcode-Generator
-'''
+
 
 2. Run the script:
 
@@ -49,8 +49,11 @@ python app.py
 3. Use the GUI to:
 
 Select code type (QR Code or Barcode).
+
 Enter the text or URL to encode.
+
 Specify a save location and file name.
+
 Set the size for QR codes (1–40).
 
 ## GUI Layout
