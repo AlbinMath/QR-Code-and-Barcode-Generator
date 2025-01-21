@@ -36,7 +36,7 @@ pip install python-barcode Pillow
 ## Usage
 1. Clone the repository:
 
-''' bash
+'''bash
 git clone https://github.com/AlbinMath/QR-Code-and-Barcode-Generator.git
 
 cd QR-Code-and-Barcode-Generator
@@ -58,11 +58,17 @@ Set the size for QR codes (1–40).
 
 ## GUI Layout
 Code Type: Dropdown to choose between QR Code or Barcode.
+
 Text/URL: Input field for the content to encode.
+
 Save Location: Field and "Browse" button to select the output directory.
+
 File Name: Input field to specify the output file name.
+
 QR Code Size: Optional size input for QR codes.
+
 Generate Button: Generates the QR Code or Barcode.
+
 Clear All Button: Clears all input fields.
 
 Contributing
