@@ -4,6 +4,7 @@ A Python-based application for generating QR codes and barcodes using a graphica
 
 ---
 
+
 ## Features
 
 - Generate **QR Codes** from text or URLs.
