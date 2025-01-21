@@ -26,20 +26,22 @@ Ensure you have the following installed:
 ### Install Required Libraries
 
 Run the following commands to install the necessary Python libraries:
-''' bash
 
+''' bash
 pip install qrcode[pil]
 
 pip install python-barcode Pillow
-
 '''
+
 ## Usage
 1. Clone the repository:
+
 ''' bash
 git clone https://github.com/AlbinMath/QR-Code-and-Barcode-Generator.git
 
 cd QR-Code-and-Barcode-Generator
 '''
+
 2. Run the script:
 
 python app.py
